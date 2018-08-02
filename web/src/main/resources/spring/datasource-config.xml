@@ -19,7 +19,7 @@
           p:minIdle="20"
           p:removeAbandoned="true"
           p:removeAbandonedTimeout="180"
-          p:logAbandoned="true"
+          p:logAbandoned="false"
 		  p:initialSize="20"
 		  p:minEvictableIdleTimeMillis="1800000"
 		  p:testOnBorrow="true"
